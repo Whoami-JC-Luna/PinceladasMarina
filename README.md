@@ -32,8 +32,7 @@ Then, install the dependencies using the `bundle install` command:
 ```bash
 bundle install
 ```
-
-Check the installed versions and adjust the `Gemfile` and `Gemfile.lock` to resolve any issues with gem versions.
+>**Note:** Check the installed versions and adjust the `Gemfile` and `Gemfile.lock` to resolve any issues with gem versions.
 
 ### 3. Serve Locally
 
