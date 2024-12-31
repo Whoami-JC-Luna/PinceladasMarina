@@ -1,5 +1,5 @@
 # pinceladasmarina 
-### SO: Fedora 40
+#### SO: Fedora 40
 ### Theme: roxo-jekyll 
 ### Repo: https://github.com/StaticMania/roxo-jekyll.git
 
