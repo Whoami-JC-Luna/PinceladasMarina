@@ -1,7 +1,7 @@
 # pinceladasmarina 
 #### SO: Fedora 40
-### Theme: roxo-jekyll 
-### Repo: https://github.com/StaticMania/roxo-jekyll.git
+#### Theme: roxo-jekyll 
+#### Repo: https://github.com/StaticMania/roxo-jekyll.git
 
 ## Steps to Set Up the Project
 
